@@ -13,5 +13,4 @@ Question:
 terms:
 goal - Goal column contains the target amount that is required for the project to be successful
 
-
 usd_pledged - conversion in US dollars of the pledged column
